@@ -1,6 +1,7 @@
+![LOGO](https://github.com/PrajwalB10/PrajwalB10/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prajwal B</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align = "right" alt="prajwal" width="400" scr="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<DIV ><img align = "right" alt="prajwal" width="400" scr="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"><DIV>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalb10&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalb10" /> </p>
 
 - 🌱 I’m currently learning **SQL,PYTHON,EXCEL,POWER-BI**
